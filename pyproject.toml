@@ -23,3 +23,6 @@ Homepage="https://github.com/GeeeekExplorer/nano-vllm"
 
 [tool.setuptools]
 packages = ["nanovllm"]
+
+[tool.setuptools.packages]
+find = {}
