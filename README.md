@@ -1,4 +1,4 @@
-# Nano-vLLM
+# Nano-vLLM (FORK)
 
 A lightweight vLLM implementation built from scratch.
 
@@ -11,7 +11,7 @@ A lightweight vLLM implementation built from scratch.
 ## Installation
 
 ```bash
-pip install git+https://github.com/GeeeekExplorer/nano-vllm.git
+pip install git+https://github.com/xiejw/nano-vllm.git
 ```
 
 ## Manual download
